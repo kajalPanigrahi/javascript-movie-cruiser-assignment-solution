@@ -1,0 +1,26 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Movie A",
+      "posterpath": "Hello"
+    },
+    {
+      "id": 2,
+      "title": "Movie B",
+      "posterpath": "Movie"
+    },
+    {
+      "id": 3,
+      "title": "Movie C",
+      "posterpath": "World"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "Movie A",
+      "posterpath": "Hello"
+    }
+  ]
+}
